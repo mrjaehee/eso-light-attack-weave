@@ -49,11 +49,11 @@ global enableUlti := false
 
 ;Enable or disable block cancelling on the given skills.
 ;WARNING: If you enable any of these functions, this macro is more likely to be considered botting.
-global enableBlockCancel1 := false
-global enableBlockCancel2 := false
-global enableBlockCancel3 := false
-global enableBlockCancel4 := false
-global enableBlockCancel5 := false
+global enableBlockCancel1 := true
+global enableBlockCancel2 := true
+global enableBlockCancel3 := true
+global enableBlockCancel4 := true
+global enableBlockCancel5 := true
 global enableBlockCancelU := false
 
 ;Change this to false if you want to disable weaving on individual keys, but allow 
